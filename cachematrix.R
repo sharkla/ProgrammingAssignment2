@@ -2,6 +2,11 @@
 ## functions do
 
 ## Write a short comment describing this function
+ ##              1. set the matrix
+ ##              2. get the matrix
+ ##              3. set the inverse
+ ##              4. get the inverse
+ ## return to a list
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
